@@ -1,13 +1,32 @@
 # FocusFlow
 
 Features list:
-  -Promodoro timer
-  -Task management
-  -to do lists
-  -study time tracker
+  -Promodoro timer: To plan study stession set up pauses and all that
+  -Task management: set tasks to do 
+  -study time tracker: Track study time daily, weekly and monthly
   -Exams, quiz ect count down timer
   -exam preparation planner 
   -customizable themes
   -animations
-  -background quran and some background sounds for studying
-  
+  -quran and some background sounds for studying
+  -Daily Goals Tracker: Users can set and check off small daily goals for a sense of accomplishment.
+  -Achievement Badges: Reward users with badges for completing specific milestones, such as studying for 10 hours in a week or completing all tasks for a day.
+  -Focus Mode: A distraction-free interface with a clean design and only essential features visible during study sessions.
+  -Performance Analytics: Visual graphs or charts to show weekly/monthly progress in study hours, task completion, and goals.
+  -Task Priority Heatmap: Visual representation of tasks by priority to help users focus on urgent or important ones.
+  -Study Groups: Allow users to create or join study groups where they can share tasks, timers, and countdowns.
+  -Leaderboard: Gamify productivity by showing a leaderboard among friends or users of the app based on study hours or completed tasks.
+  -Sharing Options: Share to-do lists, study plans, or countdowns with others via email or links.
+  -Dynamic Backgrounds: Change backgrounds based on the time of day (e.g., morning, afternoon, night themes).
+  -Custom Sound Upload: Let users upload their own background sounds or audio for a more personalized experience.
+  -Voice Command Support: Enable users to manage tasks, timers, or to-do lists using voice commands.
+  -Text-to-Speech: Read tasks or notes aloud for users who prefer auditory reminders.
+  -Notepad/Journal: A space for users to write quick notes or reflect on their study sessions.
+  -Flashcards: A flashcard system for revising concepts, terms, or formulas.
+  -Resource Organizer: A feature to store and organize study resources like PDFs, links, and videos.
+  -Break Suggestions: Recommend quick exercises, breathing techniques, or motivational quotes during breaks in the Pomodoro timer.
+  -Mood Tracker: Let users track their mood alongside their productivity to correlate how they feel with their study habits.
+  -Cloud Sync: Allow users to sync their data across devices by integrating with cloud storage.
+  -Calendar Integration: Integrate with Google Calendar or other calendar apps for scheduling tasks and exams.
+  -Interactive Study Planner: Drag-and-drop functionality for organizing daily study schedules.
+  -Interactive Quiz Builder: Let users create and solve quizzes for self-assessmen
